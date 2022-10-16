@@ -14,11 +14,11 @@
     "env": {
         "API_HASH": {
             "description": "Your API HASH from my.telegram.org",
-            "value": ""
+            "value": "6986f5d5aa82737cf7fb0c5b9492e732"
         },
         "API_ID": {
             "description": "Your API ID from my.telegram.org",
-            "value": ""
+            "value": "7287628"
         },
         "BOT_TOKEN": {
             "description": "Bot token, get it from @BotFather.",
@@ -26,7 +26,7 @@
         },
         "BOT_UN": {
             "description": "Your bot username here. Do not use '@'.",
-            "value": ""
+            "value": "Testspotidy_bot"
         }
     },
     "buildpacks": [
